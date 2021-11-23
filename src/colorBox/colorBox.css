@@ -1,0 +1,11 @@
+.colorBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 30vh;
+    width: 30vh;
+    font-size: 3vh;
+    border: 0.1rem solid black;
+    border-radius: 0.4rem;
+}

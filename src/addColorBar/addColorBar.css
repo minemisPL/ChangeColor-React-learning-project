@@ -1,0 +1,13 @@
+.addColorBar input{
+    width: 30vh;
+    height: 5vh;
+    margin-top: 1vh;
+    font-size: 3vh;
+    border: 0.1rem solid black;
+    border-radius: 0.4rem;
+}
+
+.addColorBar label {
+    position: absolute;
+    left: 99999999px;
+}
